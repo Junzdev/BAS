@@ -74,7 +74,7 @@ module.exports = (next) => {
             // If the added participant is the bot itself, just send a greeting message then break this loop.
             if (newParticipant.userFbId == botID1) {
               message1.body = `Hi, I am BotsAintSimp. Thank you for having me as the ${toOrdinalNumber(participants1.length)} member of "${threadName1}".\n\n`;
-              message1.body += `Type ${settings1.prefix}help to see the list  of available commands. Please remember to not spam the bot to avoid the bot from being muted by fb. Thank you for your kind understanding! <3\n\n~Author: @John Roy Lapida Calimlim`;
+              message1.body += `Type ${settings1.prefix}help to see the list  of available commands. Please remember to not spam the bot to avoid the bot from being muted by fb. Thank you for your kind understanding! <3\n\nBot by: @John Carl Faustino`;
               message1.mentions.push({
                 tag: "@John Carl Faustino", id: "100076613706558"
               });
