@@ -1,6 +1,6 @@
-# SnoopBot :robot:
+# BotsAintSimp :robot:
 
-**SnoopBot** is a **facebook messenger chatbot** that is made
+**BotsAintSimp** is a **facebook messenger chatbot** that is made
 using **NodeJS** and the **Unofficial Facebook Chat API**.
 ------------------
 ### Automatic Bot Tasks
@@ -10,7 +10,7 @@ using **NodeJS** and the **Unofficial Facebook Chat API**.
 ### Commands Available
 **Default Prefix**: /
 - [x] `/help` : Displays the list of all available commands in this bot.
-- [x] `/info` : Displays info about SnoopBot.
+- [x] `/info` : Displays info about BotsAintSimp.
 - [x] `/say <language> <phrase>` : Sends an audio synthesis of the phrase.
 - [x] `/say languages-list` : Lists all the supported languages.
 - [x] `/translate <phrase or word> to <language>` : Translates a phrase or word to a specified language.
@@ -32,8 +32,8 @@ using **NodeJS** and the **Unofficial Facebook Chat API**.
 - [x] `/settings list` : Lists the current settings of the bot in a current thread.
 
 ### Cloning
-- [x] Run `git clone https://github.com/SnoopyCodeX/snoopbot-prod` in your terminal
-- [x] Then type `cd snoopbot-prod`
+- [x] Run `https://github.com/BotsAintSimp/BAS.git` in your terminal
+- [x] Then type `cd BAS`
 
 ### Deploying Locally
 **Before anything**, you must create a facebook dummy account for your chatbot first.
