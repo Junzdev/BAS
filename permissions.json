@@ -1,0 +1,622 @@
+{
+    "bot-owner": "100085917644687",
+    "thread-admins": {},
+    "5310020869038459": {
+        "users": {
+            "100016897632316": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100009965737410": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            }
+        }
+    },
+    "3657311940979769": {
+        "users": {
+            "100002435702688": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100004565898167": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100004615865257": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100009874807148": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100011647126954": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100012152731893": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100012241245544": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100015039064806": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100015285540275": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100017100194071": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100029099405626": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100056263770886": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100059468632381": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100063615349627": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100072700295993": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100076613706558": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100080460532201": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100083053605748": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            }
+        }
+    },
+    "4531351533645663": {
+        "users": {
+            "100003595618264": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100005066231910": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100006879459800": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100007752908927": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100011647126954": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100072700295993": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100076613706558": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100080460532201": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100083053605748": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            }
+        }
+    },
+    "8479279658778790": {
+        "users": {
+            "100000335315303": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100000547518726": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100003575988805": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100006207105851": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100007515468996": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100023304660849": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100031810042802": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100034586290305": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100041312805981": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100057240497066": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100076480861654": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100080460532201": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100085352807980": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            },
+            "100085642972736": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define"
+                ]
+            }
+        }
+    }
+}
